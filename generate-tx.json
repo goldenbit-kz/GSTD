@@ -1,4 +1,5 @@
 {
-  "transaction": "BASE64_DATA",
-  "validator": "9sZA..."
+  "transaction": "{BASE64_TX}",
+  "validator": "{VALIDATOR_ADDRESS}",
+  "amount": "{AMOUNT}"
 }
